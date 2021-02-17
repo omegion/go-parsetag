@@ -2,7 +2,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/yitsushi/go-parsetag/badge.svg?branch=main)](https://coveralls.io/github/yitsushi/go-parsetag?branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/yitsushi/go-parsetag)](https://goreportcard.com/report/github.com/yitsushi/go-parsetag)
-[![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](http://pkg.go.dev/github.com/yitsushi/go-parsetag) [![Join the chat at https://gitter.im/yitsushi/go-parsetag](https://badges.gitter.im/yitsushi/go-parsetag.svg)](https://gitter.im/yitsushi/go-parsetag?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](http://pkg.go.dev/github.com/yitsushi/go-parsetag)
 
 Parse tags from structs with a compact callback function.
 
