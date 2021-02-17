@@ -27,7 +27,7 @@ func main() {
 	extracted := map[string]string{}
 
 	parsetag.Parse(data, "mytag", func(tagValue string, fieldType string, fieldValue interface{}) {
-		if fieldType == stringType {
+		if fieldType == "string" {
 			extracted[tagValue] = fieldValue.(string)
 		}
 	})
